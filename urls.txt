@@ -1,0 +1,16 @@
+# PingSLO Targets File
+# Lines starting with # are comments
+# Format: hostname[:port] or full URL
+
+# Major tech companies
+google.com
+github.com:443
+microsoft.com
+
+# CDN providers
+cloudflare.com
+fastly.com
+
+# Social media
+twitter.com
+reddit.com
