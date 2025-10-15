@@ -1,4 +1,4 @@
-# PingSLO - Network SLO Monitoring Tool
+# QuickProbe - Network SLO Monitoring Tool
 
 A lightweight, async Python tool for monitoring network Service Level Objectives (SLOs) through TCP connection tests and HTTP Time-To-First-Byte (TTFB) measurements
 
