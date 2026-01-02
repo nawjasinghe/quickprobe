@@ -27,6 +27,11 @@ A lightweight, async Python tool for monitoring network Service Level Objectives
 
 ---
 
+## Tech Stack
+- Python
+- Pytest (Unit Testing)
+- Batch Files (Setup and UI)
+
 ## Installation
 
 ### Prerequisites
