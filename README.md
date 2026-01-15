@@ -179,11 +179,6 @@ SLO Summary: 1 passed, 1 failed (out of 2 targets)
 - Prevents overwhelming network/system resources
 - Respects server rate limits
 - Configurable based on environment
-
-## License
-
-MIT License - Free to use, modify, and distribute.
-
 ---
 
 ## FAQ
