@@ -1,4 +1,3 @@
-"""tests for statistics calculations"""
 import pytest
 
 
